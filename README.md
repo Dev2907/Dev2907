@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev2907
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front end and Back end development
+- 👀 I’m interested in Web Development and Artificial Intelligence
+- 🌱 I’m currently learning Web Development and cs50 Ai
 - 📫 How to reach me :
 - Email: Reshamiyadev1234@gmail.com
 - Linkdin: https://www.linkedin.com/in/dev-reshamiya/
