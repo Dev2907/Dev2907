@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dev2907
+- I am a student at Adani University in India
 - 👀 I’m interested in Web Development and Artificial Intelligence
 - 📫 How to reach me :
 - Email: Reshamiyadev1234@gmail.com
