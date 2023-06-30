@@ -1,6 +1,6 @@
-Dev2907 - GitHub Readme
+Dev Reshamiya- GitHub Readme
 
-👋 Hi, I'm Dev2907, a student at Adani University in India, with a passion for Web Development and Artificial Intelligence.
+👋 Hi, I'm Dev, a student at Adani University in India, with a passion for Web Development and Artificial Intelligence.
 About Me
 
     🎓 Currently pursuing studies at Adani University, India.
