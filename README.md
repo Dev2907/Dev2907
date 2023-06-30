@@ -22,7 +22,7 @@ Here are some of my key skills:
 
 Education
 
-    Adani University, India - Bachelor of Technology in Computer Science and Engineering (Expected Graduation: 2023)
+    Adani University, India - Bachelor of Technology in Computer Science and Engineering (Expected Graduation: 2024)
 
 Get in Touch
 
