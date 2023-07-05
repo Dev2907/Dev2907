@@ -29,7 +29,7 @@ Get in Touch
 I am always open to new opportunities and collaborations. Feel free to reach out to me via email or LinkedIn. I would love to connect and discuss potential projects or any other inquiries.
 
     📧 Email: Reshamiyadev1234@gmail.com
-    🔗 LinkedIn: [https://www.linkedin.com/in/dev-reshamiya/](https://www.linkedin.com/in/dev-reshamiya/)
-    🔗 LinkedIn: [https://www.linkedin.com/in/dev-reshamiya/](https://dev2907.github.io/portfolio/))
+    🔗 LinkedIn: https://www.linkedin.com/in/dev-reshamiya/
+    🔗 Portfolio: https://dev2907.github.io/portfolio/
 
 Thank you for visiting my GitHub profile!
