@@ -1,10 +1,11 @@
 Dev Reshamiya- GitHub Readme
 
-👋 Hi, I'm Dev, a student at Adani University in India, with a passion for Web Development and Artificial Intelligence.
+👋 Hi, I'm Dev, a Software Developer at Odoo.
 About Me
 
-    🎓 Currently pursuing studies at Adani University, India.
-    💻 Interested in Web Development and Artificial Intelligence.
+    🎓 Completed Btech in Information and Communication techonlogy  at Adani University, India.
+    🏢 Working as an SDE at Odoo India pvt ltd
+    💻 Interested in Software Development and Artificial Intelligence.
     📚 Skills: MongoDB, React, Node.js, Express, Python, Scikit-Learn.
     📫 Reach me via email at: Reshamiyadev1234@gmail.com.
     🔗 Connect with me on LinkedIn: Dev Reshamiya.
@@ -22,7 +23,7 @@ Here are some of my key skills:
 
 Education
 
-    Adani University, India - Bachelor of Engineering in Information and Communication Technology (Expected Graduation: 2024)
+    Adani University, India - Bachelor of Engineering in Information and Communication Technology (Graduation: 2024) (GPA : 8.6/10)
 
 Get in Touch
 
